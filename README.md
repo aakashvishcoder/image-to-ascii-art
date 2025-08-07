@@ -21,5 +21,5 @@
 
 ```bash
 git clone repo
-cd your-repo/frontend
+cd your-repo/src
 npm start 
